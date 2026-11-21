@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/aback-hq/.github/blob/main/SECURITY.md
+    about: Please report security issues privately, not in a public issue.
+  - name: Product help
+    url: https://aback.group/products/
+    about: Each product's website has its own help and contact details.
+  - name: Custom software or AI work
+    url: https://aback.ai
+    about: Aback.ai builds software, AI systems and automation for businesses.
